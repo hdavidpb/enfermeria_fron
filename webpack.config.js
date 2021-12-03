@@ -119,7 +119,7 @@ module.exports = {
     historyApiFallback: true,
     port: 9008,
     // inline: true,
-    hot: true,
+    hot: false,
     open: true,
   },
   resolve: {
